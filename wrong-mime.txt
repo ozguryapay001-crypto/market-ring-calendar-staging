@@ -1,0 +1,1 @@
+{"schemaVersion":1,"calendarVersion":3,"updatedAt":"2026-10-04","years":[2026,2027],"files":[{"year":2026,"url":"calendars/v3/market-calendar-2026.json","sha256":"c6de357a5097662b0910d1f28d0d5f2f70fcf4d5639951b21d24b3a3d3f44c07"},{"year":2027,"url":"calendars/v3/market-calendar-2027.json","sha256":"fa7999d0f861a6018da760a032be16f12516cc16679b9675e210531c4c25de6c"}]}
