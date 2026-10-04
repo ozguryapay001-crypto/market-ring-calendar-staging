@@ -1,0 +1,1 @@
+Market Ring calendar staging. Schema 1, version 3. Same verified source data as bundled version 2; version increment exercises HTTPS activation. Unknown dates remain unverified.
